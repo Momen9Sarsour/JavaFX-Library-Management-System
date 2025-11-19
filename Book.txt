@@ -1,0 +1,12 @@
+id:915, title:JAVA, publisher:PTC, author:google, year:2004, numberOfCopies:15, financialValue:50
+
+id:159, title:C++, publisher:Google, author:Momen, year:2015, numberOfCopies:15 ,financialValue:10
+
+id:12, title:JAVA, publisher:Yousesf, author:ALi, year:1789, numberOfCopies:12, financialValue:189
+
+id:13, title:Arabic, publisher:Ali, author:Omar, year:1839, numberOfCopies:13, financialValue:120
+
+id:44, title:PTC, publisher:Ahmed, author:Momen, year:2020, numberOfCopies:3, financialValue:12
+
+id:22, title:English, publisher:Khaled,author:Rajab, year:1283, numberOfCopies:11, financialValue:145
+
